@@ -1,1 +1,1 @@
-hello
+A simple web page.
